@@ -1,0 +1,16 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "description": "Kata Test Ground",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
